@@ -6,8 +6,8 @@ Following is repository structure which introduces multi-layer layout to support
 - cloud layer to support multi-cloud deployment
 - account layer to support multi-account deployment within same cloud provider
 - region layer to support multi-region deployment within same account
-- env layer to support multi-environment deployment withint same region
-- service layer to define KL Data team services to be deployed
+- env layer to support multi-environment deployment within same region
+- service layer to define services to be deployed
   These layers can be changed/removed after discussion...
 
 Example layout structure:
